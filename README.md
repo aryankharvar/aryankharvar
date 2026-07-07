@@ -1,22 +1,22 @@
 # Hi there! 👋 I'm Aryan Kharvar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights;Open+to+Data+Analyst+Opportunities+in+Canada" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Data+%26+Inventory+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Operational+Data+into+Decisions;Open+to+Inventory+%26+Data+Analyst+Roles+in+Canada" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
+I'm a **Data & Inventory Analyst** passionate about turning operational and transactional data into decisions teams can act on.
 
-I enjoy solving business problems through **SQL, Python, Excel, and Power BI** by building interactive dashboards, cleaning data, and uncovering trends that support better decision-making.
+My recent project work centers on **inventory and supply chain analytics** — building Power BI dashboards that track warehouse utilization, inventory turnover, lead times, and backorder trends. I also work across broader BI reporting and large-scale customer/retail data analysis using **SQL, Python, Excel, and Power BI**.
 
 🎓 **Master of Science in Computational Sciences**
 
 📍 Ontario, Canada
 
-💼 Open to **Data Analyst**, **Business Analyst**, and **Business Intelligence** opportunities.
+💼 Open to **Inventory Analyst**, **Data Analyst**, and **Supply Chain / Business Intelligence** opportunities.
 
 ---
 
@@ -70,6 +70,28 @@ I enjoy solving business problems through **SQL, Python, Excel, and Power BI** b
 
 # 📊 Featured Projects
 
+## 📦 Inventory & Supply Chain Analytics Dashboard
+
+Interactive Power BI dashboard giving end-to-end visibility into inventory health, warehouse utilization, and order fulfillment.
+
+**Highlights**
+
+- Inventory Turnover & Days Sales of Inventory (DSI) Tracking
+- Warehouse Utilization Gauge vs. Target Benchmark
+- Backorder & Fulfillment Anomaly Analysis
+- Lead Time Analysis by Category
+- DAX Measures & Region/Category Drill-Down
+
+**Tech**
+
+Power BI • DAX • Excel/CSV Data Modeling
+
+🔗 Repository
+
+https://github.com/aryankharvar/Inventory_Supply_Chain_Analysis
+
+---
+
 ## 🛒 Online Retail Customer Analytics
 
 Analyze customer purchasing behavior using Python.
@@ -78,7 +100,7 @@ Analyze customer purchasing behavior using Python.
 
 - Data Cleaning
 - Exploratory Data Analysis
-- Customer Segmentation
+- RFM Customer Segmentation
 - Revenue Analysis
 - Data Visualization
 
@@ -114,20 +136,20 @@ https://github.com/aryankharvar/walmart_sales_data_analysis
 
 ---
 
-## 🏭 Plant Performance Analytics
+## 🌱 Plant Co. Performance Dashboard
 
-Business intelligence dashboard for manufacturing performance monitoring.
+Power BI dashboard for monitoring sales and profitability performance across countries, product categories, and customer segments.
 
 **Highlights**
 
-- Production Analysis
-- Downtime Monitoring
-- KPI Tracking
-- Interactive Dashboard
+- Sales, Quantity & Gross Profit KPI Tracking
+- YTD vs. PYTD Variance (DAX Time-Intelligence)
+- Customer Profitability Segmentation
+- Star-Schema Data Modeling
 
 **Tech**
 
-Power BI • Excel
+Power BI • Power Query • DAX
 
 🔗 Repository
 
@@ -149,7 +171,9 @@ https://github.com/aryankharvar/Plant_Performance_Analytics
 
 # 💼 Core Skills
 
-✔ Data Cleaning
+✔ Inventory & Warehouse Analytics
+
+✔ Data Cleaning & Modeling
 
 ✔ Data Visualization
 
@@ -161,9 +185,7 @@ https://github.com/aryankharvar/Plant_Performance_Analytics
 
 ✔ Business Intelligence
 
-✔ Reporting
-
-✔ KPI Analysis
+✔ KPI Reporting
 
 ✔ Statistical Analysis
 
@@ -173,7 +195,7 @@ https://github.com/aryankharvar/Plant_Performance_Analytics
 
 # 🎯 Career Objective
 
-I'm seeking opportunities where I can leverage analytical thinking, SQL, Python, Power BI, and Excel to help organizations make data-driven decisions and solve real-world business problems.
+I'm seeking Inventory Analyst, Data Analyst, and Supply Chain Analytics opportunities where I can apply SQL, Python, Power BI, and Excel to help organizations optimize inventory, streamline operations, and make data-driven decisions.
 
 ---
 
