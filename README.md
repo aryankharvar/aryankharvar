@@ -92,6 +92,28 @@ https://github.com/aryankharvar/Inventory_Supply_Chain_Analysis
 
 ---
 
+## 🛒 Walmart Sales Analysis — SQL + Python
+
+End-to-end analysis solving 9 business questions from 10,000+ transaction records using Python for ETL and SQL for analysis.
+
+**Highlights**
+
+- Window Functions (RANK() OVER PARTITION BY) for Top Category/Day/Payment Method per Branch
+- CTE-Based Year-over-Year Revenue Decline Analysis
+- CASE-Based Time-of-Day Sales Bucketing
+- Data Cleaning & Feature Engineering in Pandas
+- Loaded to MySQL & PostgreSQL via SQLAlchemy
+
+**Tech**
+
+Python • Pandas • SQL (MySQL, PostgreSQL) • SQLAlchemy
+
+🔗 Repository
+
+https://github.com/aryankharvar/walmart_sales_data_analysis
+
+---
+
 ## 🛒 Online Retail Customer Analytics
 
 Analyze customer purchasing behavior using Python.
@@ -111,28 +133,6 @@ Python • Pandas • Matplotlib • Plotly
 🔗 Repository
 
 https://github.com/aryankharvar/online-retail-analysis
-
----
-
-## 📈 Walmart Sales Dashboard
-
-Interactive Power BI dashboard for analyzing sales performance.
-
-**Highlights**
-
-- KPI Dashboard
-- Sales Trends
-- Profit Analysis
-- Regional Performance
-- Dynamic Filters
-
-**Tech**
-
-Power BI • Excel
-
-🔗 Repository
-
-https://github.com/aryankharvar/walmart_sales_data_analysis
 
 ---
 
@@ -173,13 +173,13 @@ https://github.com/aryankharvar/Plant_Performance_Analytics
 
 ✔ Inventory & Warehouse Analytics
 
+✔ SQL (Window Functions, CTEs, Joins)
+
 ✔ Data Cleaning & Modeling
 
 ✔ Data Visualization
 
 ✔ Dashboard Development
-
-✔ SQL Queries
 
 ✔ Exploratory Data Analysis (EDA)
 
