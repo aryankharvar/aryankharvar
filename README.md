@@ -10,7 +10,7 @@
 
 I'm a **Data & Inventory Analyst** passionate about turning operational and transactional data into decisions teams can act on.
 
-My recent project work centers on **inventory and supply chain analytics** — building Power BI dashboards that track warehouse utilization, inventory turnover, lead times, and backorder trends. I also work across broader BI reporting and large-scale customer/retail data analysis using **SQL, Python, Excel, and Power BI**.
+My recent project work centers on **inventory and supply chain analytics** — building Power BI dashboards that track warehouse utilization, inventory turnover, lead times, and backorder trends. I've also built **fully automated data pipelines** (Python + GitHub Actions) feeding live, auto-updating dashboards — tracking commodity prices and weather-driven supply chain risk — to practice production-style data engineering beyond one-off analysis. I work across broader BI reporting and large-scale customer/retail data analysis using **SQL, Python, Excel, and Power BI**.
 
 🎓 **Master of Science in Computational Sciences**
 
@@ -58,6 +58,16 @@ My recent project work centers on **inventory and supply chain analytics** — b
 
 ---
 
+---
+
+### Automation & Deployment
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -89,6 +99,48 @@ Power BI • DAX • Excel/CSV Data Modeling
 🔗 Repository
 
 https://github.com/aryankharvar/Inventory_Supply_Chain_Analysis
+
+---
+
+## 📈 Live Metals Price Tracker — Automated Data Pipeline
+
+A self-updating pipeline tracking daily copper, platinum, palladium, and gold prices — GitHub Actions polls live data, writes to SQLite, and commits updates with zero manual intervention. Live Streamlit dashboard auto-redeploys on every new commit.
+
+**Highlights**
+
+- Fully Automated Daily Pipeline (GitHub Actions → Python → SQLite → Live Dashboard)
+- SQL Views: Window Functions (RANK, LAG) & CTEs for Rolling Averages and Volatility Ranking
+- Normalized Cross-Metal Performance Comparison & Correlation Heatmap
+- Deduplication Logic — Safe to Re-Run Without Corrupting History
+
+**Tech**
+
+Python • SQL (SQLite) • GitHub Actions • Streamlit • Plotly • yfinance
+
+🔗 Repository
+
+https://github.com/aryankharvar/metals-price-tracker
+
+---
+
+## 🌨️ Weather-Driven Supply Chain Risk Tracker
+
+An automated pipeline translating daily weather conditions across Canadian logistics hubs into a disruption risk score — connecting real-time environmental data to a concrete supply chain use case.
+
+**Highlights**
+
+- CASE-Based Risk Classification (Temperature, Wind, Precipitation Thresholds)
+- RANK()-Based 30-Day Risk Frequency Ranking by Location
+- Live Geographic Risk Map & Network Risk Gauge
+- Custom-Built CSS Dashboard Design (Hero Header, Styled Cards, Sidebar)
+
+**Tech**
+
+Python • SQL (SQLite) • GitHub Actions • Streamlit • Plotly • Open-Meteo
+
+🔗 Repository
+
+https://github.com/aryankharvar/weather-risk-tracker
 
 ---
 
@@ -172,6 +224,8 @@ https://github.com/aryankharvar/Plant_Performance_Analytics
 # 💼 Core Skills
 
 ✔ Inventory & Warehouse Analytics
+
+✔ Data Pipeline Automation (GitHub Actions)
 
 ✔ SQL (Window Functions, CTEs, Joins)
 
