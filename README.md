@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Data+%26+Inventory+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Operational+Data+into+Decisions;Open+to+Inventory+%26+Data+Analyst+Roles+in+Canada" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://aryankharvar.github.io/"><strong>🌐 View my full portfolio → aryankharvar.github.io</strong></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -256,6 +260,10 @@ I'm seeking Inventory Analyst, Data Analyst, and Supply Chain Analytics opportun
 # 📫 Connect With Me
 
 <p align="left">
+
+<a href="https://aryankharvar.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-4FD1C5?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 <a href="https://www.linkedin.com/in/aryankharvar/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
